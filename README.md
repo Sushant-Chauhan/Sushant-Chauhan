@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="300px" src="https://c.tenor.com/1d9jmOsLP2cAAAAd/hello.gif" height="100%"/></a>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sushant Chauhan</h1>
+<h1 align="center">Hi <img src="https://github.com/Sushant-Chauhan/Sushant-Chauhan/blob/main/github" width="30px">, I'm Sushant Chauhan</h1>
 <h3 align="center">I'm a passionate developer who loves to explore new technologies.</h3>
 
 ### 🚀 About Me  
