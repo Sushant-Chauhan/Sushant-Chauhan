@@ -13,6 +13,12 @@
   </a>
 </div>
 
+<div style="text-align: center; margin-top: 50px;">
+  <a href="#">
+    <img width="80%" height="350px" src="https://github.com/Sushant-Chauhan/Sushant-Chauhan/blob/main/github" style="display: block; margin-left: auto; margin-right: auto;"/>
+  </a>
+</div>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sushant Chauhan</h1>
 <h3 align="center">I'm a dedicated developer and data engineer with a passion for exploring emerging technologies.</h3>
