@@ -24,6 +24,19 @@
 ### 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sushant-Chauhan&theme=darkhub&no-frame=true&no-follow=true&no-stars=true&no-reviews=true&rank=SSS,SSS,S,A,B)
 
+
+### 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sushant-Chauhan&theme=darkhub&no-frame=true&no-follow=true&no-stars=true&no-reviews=true&rank=SSS,SSS,S,A,B&count_private=true)
+
+
+### 📊 GitHub Stats  
+![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushant-Chauhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=stars)
+
+
+### 📊 GitHub Repositories  
+![Repositories](https://img.shields.io/badge/Repos-XX-blue)
+
+
 ---
 
 ### 💬 Fun Fact  
