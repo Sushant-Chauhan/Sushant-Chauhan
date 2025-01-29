@@ -7,6 +7,13 @@
 </div>
 
 
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <a href="#">
+    <img width="80%" height="350px" src="https://github.com/Sushant-Chauhan/Sushant-Chauhan/blob/main/github"/>
+  </a>
+</div>
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sushant Chauhan</h1>
 <h3 align="center">I'm a dedicated developer and data engineer with a passion for exploring emerging technologies.</h3>
 
