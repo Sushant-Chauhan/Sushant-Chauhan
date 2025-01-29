@@ -1,6 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">,# 👋 Hello! I'm Sushant Chauhan! </h1>
+<a href="#"><img width="100%" height="300px" src="https://c.tenor.com/1d9jmOsLP2cAAAAd/hello.gif" height="100%"/></a>
 
-I'm a passionate developer who loves to explore new technologies.
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sushant Chauhan</h1>
+<h3 align="center">I'm a passionate developer who loves to explore new technologies.</h3>
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Golang projects** using CQRS architecture and SOLID principles and design patterns.  
