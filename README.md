@@ -10,16 +10,14 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushant-Chauhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=stars)
-
 ### 🚀 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Chauhan&layout=compact&theme=radical)
 
+### 📊 GitHub Stats  
+![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushant-Chauhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=stars)
+
 ### 🔥 GitHub Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushant-Chauhan&theme=radical&hide_border=true)
-
----
 
 ### 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sushant-Chauhan&theme=darkhub&no-frame=true&no-follow=true&no-stars=true&no-reviews=true&rank=SSS,SSS,S,A,B)
@@ -29,14 +27,29 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sushant-Chauhan&theme=darkhub&no-frame=true&no-follow=true&no-stars=true&no-reviews=true&rank=SSS,SSS,S,A,B&count_private=true)
 
 
-### 📊 GitHub Stats  
-![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushant-Chauhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=stars)
-
 
 ### 📊 GitHub Repositories  
 ![Repositories](https://img.shields.io/badge/Repos-XX-blue)
 
+### 📂 GitHub Repositories  
+![Repositories](https://img.shields.io/badge/Repos-XX-blue)  <!-- Replace XX with actual repository count -->
 
+
+### 📊 GitHub Stats  
+![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushant-Chauhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=stars&line_height=28)
+
+![My Repositories](https://raw.githubusercontent.com/Sushant-Chauhan/Sushant-Chauhan/main/repos-count-image.png)
+
+
+## 🚀 Languages & Tools
+- **Languages**: Go, Python, Java, JavaScript, HTML, CSS
+- **Tools**: Git, GitHub, VSCode, Docker, Kubernetes, Jenkins
+- **Cloud**: GCP, Azure
+
+## 📬 How to reach me:
+- [GitHub](https://github.com/Sushant-Chauhan)
+- [LinkedIn](https://www.linkedin.com/in/sushant-chauhan)
+- [Twitter](https://twitter.com/Sushant_Dev)
 ---
 
 ### 💬 Fun Fact  
