@@ -24,7 +24,7 @@ I'm a passionate developer who loves to explore new technologies.
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sushant-Chauhan&theme=darkhub&no-frame=true&no-follow=true&no-stars=true&no-reviews=true&rank=SSS,SSS,S,A,B)
 
 ### 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sushant-Chauhan&theme=darkhub&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sushant-Chauhan&theme=darkhub&no-frame=truee&no-stars=true&no-reviews=true)
 
 ---
 
