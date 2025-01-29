@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="350px" src="https://github.com/Sushant-Chauhan/Sushant-Chauhan/blob/main/github" height="100%"/></a>
+<a href="#"><img width="80%" height="350px" src="https://github.com/Sushant-Chauhan/Sushant-Chauhan/blob/main/github" height="100%"/></a>
 
 <div style="text-align: center;">
   <a href="#">
