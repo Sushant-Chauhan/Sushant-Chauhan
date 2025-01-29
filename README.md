@@ -6,6 +6,12 @@ Welcome to my GitHub profile!
 
 
 
+### 📊 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sushant-chauhan&show_icons=true&theme=dark)
+
+### 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sushant-chauhan&theme=darkhub&no-frame=true)
+
 
 <!--
 **Sushant-Chauhan/Sushant-Chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
