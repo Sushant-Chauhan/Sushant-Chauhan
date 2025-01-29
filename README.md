@@ -4,11 +4,14 @@
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Golang projects**.  
-- 🌱 I’m learning **advanced backend development** as part of Forcepoint Training.  
+- 🌱 I’m learning **backend development** in Golang using CQRS architecture and SOLID principles and design patterns.  
 - 💡 Passionate about **backend systems, APIs, software development, data engineering**.  
 - 📫 Reach me at: [sushantchauhan941@gmail.com](mailto:sushantchauhan941@gmail.com)  
 
 ---
+
+### 📊 GitHub Metrics  
+![GitHub Metrics](https://github.com/Sushant-Chauhan/Sushant-Chauhan/blob/main/github-metrics.svg)
 
 ### 📊 GitHub Stats  
 ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushant-Chauhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
@@ -22,7 +25,7 @@
 ---
 
 ### 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sushant-Chauhan&theme=darkhub&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sushant-Chauhan&theme=darkhub&no-frame=true&no-follow=true&no-stars=true)
 
 ---
 
@@ -39,13 +42,6 @@
 
 This README will now be displayed on your **GitHub Profile**! 🚀 Let me know if you want any modifications!  
 Would you like me to suggest a **better GIF or banner** for a more unique touch? 🎨
-
-
-### 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sushant-chauhan&show_icons=true&theme=dark)
-
-### 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sushant-chauhan&theme=darkhub&no-frame=true)
 
 
 <!--
