@@ -2,7 +2,7 @@
 
 I'm a passionate developer who loves to explore new technologies.
 
-<img src="https://camo.githubusercontent.com/404e2834974d2a0c1ca74f60fb1454aef319a3541d1fb9d1033298f8182a3b6c/68747470733a2f2f632e74656e6f722e636f6d2f3164396a6d4f734c50326341414141642f68656c6c6f2e676966" width="300"/>
+<img src="https://camo.githubusercontent.com/404e2834974d2a0c1ca74f60fb1454aef319a3541d1fb9d1033298f8182a3b6c/68747470733a2f2f632e74656e6f722e636f6d2f3164396a6d4f734c50326341414141642f68656c6c6f2e676966" width="600"/>
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Golang projects** using CQRS architecture and SOLID principles and design patterns.  
@@ -24,7 +24,8 @@ I'm a passionate developer who loves to explore new technologies.
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sushant-Chauhan&theme=darkhub&no-frame=true&no-follow=true&no-stars=true&no-reviews=true&rank=SSS,SSS,S,A,B)
 
 ### 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sushant-Chauhan&theme=darkhub&no-frame=true&no-follow=true&no-stars=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sushant-Chauhan&theme=darkhub&no-frame=true&no-follow=true&no-stars=true&no-reviews=true)
+
 
 ---
 
