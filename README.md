@@ -4,28 +4,26 @@
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Golang projects**.  
-- 🌱 I’m learning **backend development** in Golang using CQRS architecture and SOLID principles and design patterns.  
+- 🌱 I’m learning backend development in Golang using CQRS architecture and SOLID principles and design patterns.  
 - 💡 Passionate about **backend systems, APIs, software development, data engineering**.  
 - 📫 Reach me at: [sushantchauhan941@gmail.com](mailto:sushantchauhan941@gmail.com)  
 
 ---
 
-### 📊 GitHub Metrics  
-![GitHub Metrics](https://github.com/Sushant-Chauhan/Sushant-Chauhan/blob/main/github-metrics.svg)
-
 ### 📊 GitHub Stats  
-![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushant-Chauhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushant-Chauhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=stars)
 
 ### 🚀 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Chauhan&layout=compact&theme=radical)
 
 ### 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sushant-Chauhan&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushant-Chauhan&theme=radical&hide_border=true)
 
 ---
 
 ### 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sushant-Chauhan&theme=darkhub&no-frame=true&no-follow=true&no-stars=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sushant-Chauhan&theme=darkhub&no-frame=true&no-follow=true&no-stars=true&no-reviews=true)
+
 
 ---
 
@@ -37,11 +35,6 @@
 ### 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushant-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sushant-c-2017711b3/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Sushant--Chauhan-black?style=flat-square&logo=github)](https://github.com/Sushant-Chauhan)  
-
----
-
-This README will now be displayed on your **GitHub Profile**! 🚀 Let me know if you want any modifications!  
-Would you like me to suggest a **better GIF or banner** for a more unique touch? 🎨
 
 
 <!--
