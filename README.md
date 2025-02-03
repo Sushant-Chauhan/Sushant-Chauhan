@@ -14,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Chauhan&layout=compact&theme=radical)
 
 ### 🔥 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushant-Chauhan&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sushant-Chauhan&theme=radical)](https://git.io/streak-stats)
 
 ### 📊 GitHub Stats  
 ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushant-Chauhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=stars)
