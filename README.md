@@ -1,4 +1,4 @@
-<a href="#"><img width="90%" height="400px" src="https://github.com/Sushant-Chauhan/Sushant-Chauhan/blob/main/github" height="100%"/></a>
+<a href="#"><img width="90%" height="400px" src="https://github.com/Sushant-Chauhan/Sushant-Chauhan/blob/main/github" height="100%"/></a> 
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sushant Chauhan</h1>
 <h3 align="center">I'm a dedicated developer and data engineer with a passion for exploring emerging technologies.</h3>
