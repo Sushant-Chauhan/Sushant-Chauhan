@@ -16,6 +16,10 @@
 ### 🔥 GitHub Streak  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sushant-Chauhan)](https://git.io/streak-stats)
 
+### 🔥 Deployments
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b9517b42-1cce-4c98-ae98-ba3cd1004e18/deploy-status)](https://app.netlify.com/sites/sushant-chauhan/deploys)
+
+
 ### 📊 GitHub Stats  
 ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushant-Chauhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=stars)
 
