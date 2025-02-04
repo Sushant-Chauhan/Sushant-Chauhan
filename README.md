@@ -14,9 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Chauhan&layout=compact&theme=radical)
 
 ### 🔥 GitHub Streak  
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sushant-Chauhan)]
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sushant-Chauhan)](https://git.io/streak-stats)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Sushant-Chauhan&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Sushant-Chauhan&theme=blue-green)](https://git.io/streak-stats)
 
 
 ### 🔥 Deployments
