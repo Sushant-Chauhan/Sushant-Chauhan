@@ -16,6 +16,8 @@
 ### 🔥 GitHub Streak  
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sushant-Chauhan)]
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sushant-Chauhan)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Sushant-Chauhan&theme=merko)](https://git.io/streak-stats)
+
 
 ### 🔥 Deployments
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b9517b42-1cce-4c98-ae98-ba3cd1004e18/deploy-status)](https://app.netlify.com/sites/sushant-chauhan/deploys)
